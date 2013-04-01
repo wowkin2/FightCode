@@ -1,4 +1,3 @@
-
 var currAngle=0;
 var scannedRobotX;
 var scannedRobotY;
